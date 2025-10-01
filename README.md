@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Raza Khan</h1>
+
+<h3 align="center">Product Owner at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
+
+<div align="center">
+  <a href="https://taperlink.com" target="_blank">
+    <img src="https://taperlink.com/storage/brand/68cdc0df0f0ac1758314719.png" alt="Taperlink Logo" height="80" />
+  </a>
+</div>
+
 <!-- <h3 align="center">fullstack developer</h3> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Engineer;Building+Amazing+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -19,7 +28,7 @@
 - 👨‍💻 All of my projects are available at [https://ahmed-portfolio-seven.vercel.app/](https://ahmed-portfolio-seven.vercel.app/)
 
 - 💬 Ask me about **Node.js, Express.js, AdonisJS, React.js, Next.js, Tailwind CSS and Bootstrap. **
-
+a
 - 📫 How to reach me **ahmedrazakhank112@gmail.com**
 
 - ⚡ Fun fact **I’m the kind of person who wants to build things the whole world can use.**
