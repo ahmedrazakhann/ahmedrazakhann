@@ -2,11 +2,15 @@
 
 <h3 align="center">Product Owner at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
 
-<div align="center">
+<p align="center">
   <a href="https://taperlink.com" target="_blank">
-    <img src="https://taperlink.com/storage/brand/68cdc0df0f0ac1758314719.png" alt="Taperlink Logo" height="80" />
+    <img src="https://taperlink.com/storage/brand/68cdc0df0f0ac1758314719.png" 
+         alt="Taperlink Logo" 
+         width="140" />
   </a>
-</div>
+</p>
+
+
 
 <!-- <h3 align="center">fullstack developer</h3> -->
 <div align="center">
