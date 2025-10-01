@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ahmed Raza Khan</h1>
-
-<h3 align="center">Product Owner at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
-
+<h1 align="center">Hello, I'm Ahmed Raza Khan</h1>
+<br />
 <p align="center">
   <a href="https://taperlink.com" target="_blank">
-    <img src="https://taperlink.com/storage/brand/68cdc0df0f0ac1758314719.png" 
+    <img src="https://taperlink.com/storage/brand/68dcfc69910701759313001.png" 
          alt="Taperlink Logo" 
-         width="140" />
+         width="200" />
   </a>
 </p>
 
 
+<h3 align="center">Product Owner at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
+<br />
 
 <!-- <h3 align="center">fullstack developer</h3> -->
 <div align="center">
