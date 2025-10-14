@@ -9,7 +9,7 @@
 </p>
 
 
-<h3 align="center">Product Owner at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
+<h3 align="center">Founder at <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
 <br />
 
 <!-- <h3 align="center">fullstack developer</h3> -->
