@@ -25,9 +25,7 @@
 
 - 🔭 I’m currently working on [Zyacom](https://www.zyacom.com)
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **building real-world tools like invoicing apps, CRM dashboards, or analytics platforms using React/Vue + Node.js.**
+- 👯 I’m looking to collaborate on **building real-world tools like invoicing apps, CRM dashboards, or analytics platforms using React + Python/Node.js.**
 
 - 👨‍💻 All of my projects are available at [https://ahmed-portfolio-seven.vercel.app/](https://ahmed-portfolio-seven.vercel.app/)
 
