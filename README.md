@@ -40,7 +40,6 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
   <a href="https://theahmedraza.com/certificates/1">
     <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="110" alt="AWS Certified Machine Learning Associate" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://theahmedraza.com/certificates/2">
     <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS Certified AI Practitioner" />
   </a>
@@ -48,6 +47,26 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 
 <p align="center">
   AWS Certified Machine Learning Associate &nbsp;&middot;&nbsp; AWS Certified AI Practitioner
+</p>
+
+---
+
+## Anthropic Certifications
+
+<p align="center">
+  <a href="https://verify.skilljar.com/c/j9eroy3jadu4">
+    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_100_100/company-logo_100_100/0/1719256989269/anthropicresearch_logo?e=1778716800&v=beta&t=3AzQoQP9Wuz8_OtiN3mgwXMzVdHyj1gNR7GmApif4Bs" height="80" alt="Anthropic Education" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://verify.skilljar.com/c/j9eroy3jadu4">Building with the Claude API</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://verify.skilljar.com/c/6rvvp6wsaskt">Introduction to Agent Skills</a>
+</p>
+
+<p align="center">
+  Issued by <strong>Anthropic Education</strong> &nbsp;&middot;&nbsp; April 2026
 </p>
 
 ---
