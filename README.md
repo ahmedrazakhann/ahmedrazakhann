@@ -66,8 +66,6 @@ AI-driven procurement tool that reads complex technical documents and generates 
 **[Community Crime Watch — SOS Platform](https://theahmedraza.com/projects/4)**
 Real-time safety alerting and incident reporting system built for community-led emergency response.
 
-**[Taperlink](https://taperlink.com)** — Link-in-bio SaaS platform. Built and running.
-
 ---
 
 ## Work History
