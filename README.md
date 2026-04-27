@@ -105,4 +105,4 @@ Delivered 6 full-stack products from scratch — real-time chat, project managem
 
 High-impact engineering roles, AI and cloud consulting, or technical collaborations on products worth building.
 
-Reach me at [ahmed@theahmedraza.com](mailto:ahmed@theahmedraza.com) or visit [theahmedraza.com](https://theahmedraza.com)
+Reach me at [ahmedrazakhank112@gmail.com](mailto:ahmedrazakhank112@gmail.com) or visit [theahmedraza.com](https://theahmedraza.com)
