@@ -1,75 +1,110 @@
-<h1 align="center">Hello, I'm Ahmed Raza Khan</h1>
-<br />
+<h1 align="center">Ahmed Raza Khan</h1>
+
 <p align="center">
-  <a href="https://taperlink.com" target="_blank">
-    <img src="https://taperlink.com/storage/brand/68dcfc69910701759313001.png" 
-         alt="Taperlink Logo" 
-         width="200" />
+Full-Stack Software Engineer &nbsp;&middot;&nbsp; AWS Certified ML Associate &nbsp;&middot;&nbsp; 3 Years Building Production Systems
+</p>
+
+<p align="center">
+  <a href="https://theahmedraza.com">theahmedraza.com</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:ahmed@theahmedraza.com">ahmed@theahmedraza.com</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://linkedin.com/in/ahmedrazakhannn">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://x.com/ahmedrazakhannn">X</a>
+</p>
+
+---
+
+I build full-stack systems that are fast, scalable, and production-ready. My work spans backend architecture, AI integration, and cloud infrastructure with a focus on shipping things that hold up under real traffic and real users.
+
+Currently a Software Engineer at **ExpertsCloud**, previously backend engineer at **Zyacom** (Texas, USA) where I owned the entire software lifecycle for a US-based startup.
+
+---
+
+## What I Work With
+
+**Backend:** Node.js, Python, FastAPI, Express.js, AdonisJS
+
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+
+**Cloud & DevOps:** AWS (EC2, S3, Bedrock, DynamoDB), Docker, GitHub Actions, CI/CD
+
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB
+
+---
+
+## AWS Certifications
+
+<p align="center">
+  <a href="https://theahmedraza.com/certificates/1">
+    <img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" height="110" alt="AWS Certified Machine Learning Associate" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://theahmedraza.com/certificates/2">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS Certified AI Practitioner" />
   </a>
 </p>
 
-
-<h3 align="center">Founder of <a href="https://taperlink.com" target="_blank">Taperlink</a></h3>
-<br />
-
-<!-- <h3 align="center">fullstack developer</h3> -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Engineer;Building+Amazing+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrazakhann&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrazakhann" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedrazakhann" alt="ahmedrazakhann" /></a> </p>
-
-<p align="left"> <a href="https://x.com/ahmedrazakhannn" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedrazak35469?logo=twitter&style=for-the-badge" alt="ahmedrazak35469" /></a> </p>
-
-- 🔭 I’m currently working on [Zyacom](https://www.zyacom.com)
-
-- 👯 I’m looking to collaborate on **building real-world tools like invoicing apps, CRM dashboards, or analytics platforms using React + Python/Node.js.**
-
-- 👨‍💻 All of my projects are available at [https://ahmed-portfolio-seven.vercel.app/](https://ahmed-portfolio-seven.vercel.app/)
-
-- 💬 Ask me about **Node.js, Express.js, AdonisJS, React.js, Next.js, Tailwind CSS and Bootstrap. **
-a
-- 📫 How to reach me **ahmedrazakhank112@gmail.com**
-
-- ⚡ Fun fact **I’m the kind of person who wants to build things the whole world can use.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedrazak35469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedrazak35469" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-raza-khan-a527b1296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-raza-khan-a527b1296" height="30" width="40" /></a>
-</p>
-<details open>
-<summary>GitHub Contribution Chart</summary>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedrazakhann&theme=github" />
+  AWS Certified Machine Learning Associate &nbsp;&middot;&nbsp; AWS Certified AI Practitioner
 </p>
-</details>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazakhann&show_icons=true&locale=en&layout=compact" alt="ahmedrazakhann" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrazakhann&" alt="ahmedrazakhann" /></p> 
+## Selected Work
 
+**[Orai — AI Layer 1 Ecosystem](https://theahmedraza.com/projects/1)**
+Decentralized AI oracle and subnetwork infrastructure for verifiable AI services in Web3 environments.
 
+**[MyWill MyWay — Smart Legal Platform](https://theahmedraza.com/projects/2)**
+The world's first AI avatar platform for Will creation, with remote video witnessing built in.
 
-<div align="center">
-<a href="#">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</a>
-<br>
-<p>
- <img src="https://img.shields.io/badge/Zyacom%20App%20Launch-Coming%20Soon-FFE79B?style=for-the-badge&logo=clockify&logoColor=black" alt="Nova App Launch Coming Soon"/>
+**[TenderInABox — Automated BOQ Costing](https://theahmedraza.com/projects/3)**
+AI-driven procurement tool that reads complex technical documents and generates Bill of Quantities automatically.
 
-</p>
-<blockquote>
-<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
-</blockquote>
+**[Community Crime Watch — SOS Platform](https://theahmedraza.com/projects/4)**
+Real-time safety alerting and incident reporting system built for community-led emergency response.
+
+**[Taperlink](https://taperlink.com)** — Link-in-bio SaaS platform. Built and running.
+
+---
+
+## Work History
+
+**Software Engineer — ExpertsCloud, Lahore** *(Apr 2025 – Present)*
+Integrated AWS Bedrock LLMs into a multi-tenant SaaS platform, cutting manual processing time by 60%. Brought API response times from 420ms down to 110ms through query optimization and caching. Mentoring junior engineers on backend architecture and cloud deployment.
+
+**Backend Engineer — Zyacom, Texas USA (Remote)** *(Sep 2024 – Jan 2026)*
+Owned the full software lifecycle for a US startup. Designed and documented 60+ REST API endpoints. Deployed on AWS EC2 and S3 with 99.8% uptime and 5,000+ daily requests. Cut deployment time from 40 minutes to under 8 minutes using GitHub Actions and Docker.
+
+**Full-Stack Developer — GMG Solutions** *(Jan 2024 – Dec 2024)*
+Delivered 6 full-stack products from scratch — real-time chat, project management tools, and custom SaaS platforms. Built reusable admin scaffolding that saved roughly two weeks per new project.
+
+---
+
+## GitHub Activity
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrazakhann&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
-</div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedrazakhann&show_icons=true&locale=en" alt="ahmedrazakhann" /></p>  -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazakhann&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Writing
+
+[Mastering RAG: Architecting Scalable AI Knowledge Bases](https://theahmedraza.com/articles/mastering-rag-ai-knowledge-bases)
+
+[The Future of Full-Stack: Integrating Generative AI](https://theahmedraza.com/articles/future-of-full-stack-generative-ai)
+
+---
+
+## Open To
+
+High-impact engineering roles, AI and cloud consulting, or technical collaborations on products worth building.
+
+Reach me at [ahmed@theahmedraza.com](mailto:ahmed@theahmedraza.com) or visit [theahmedraza.com](https://theahmedraza.com)
