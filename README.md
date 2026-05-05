@@ -62,10 +62,10 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 <p align="center">
   <a href="https://verify.skilljar.com/c/ggbbckywztcp">Model Context Protocol</a>
    &nbsp;&middot;&nbsp;
-  
   <a href="https://verify.skilljar.com/c/6rvvp6wsaskt">Agent Skills</a>
    &nbsp;&middot;&nbsp;
-  <a href="https://verify.skilljar.com/c/bregn4safgwk">Claude Code in Action</a>  &nbsp;&middot;&nbsp;
+  <a href="https://verify.skilljar.com/c/bregn4safgwk">Claude Code in Action</a> 
+  &nbsp;&middot;&nbsp;
 <a href="https://verify.skilljar.com/c/j9eroy3jadu4">Building with the Claude API</a>
 </p>
 
