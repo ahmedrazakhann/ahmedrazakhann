@@ -60,9 +60,13 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 </p>
 
 <p align="center">
+  <a href="https://verify.skilljar.com/c/ggbbckywztcp">Introduction to Model Context Protocol</a>
+   &nbsp;&middot;&nbsp;
   <a href="https://verify.skilljar.com/c/j9eroy3jadu4">Building with the Claude API</a>
   &nbsp;&middot;&nbsp;
   <a href="https://verify.skilljar.com/c/6rvvp6wsaskt">Introduction to Agent Skills</a>
+   &nbsp;&middot;&nbsp;
+  <a href="https://verify.skilljar.com/c/bregn4safgwk">Claude Code in Action</a>
 </p>
 
 <p align="center">
@@ -104,10 +108,6 @@ Delivered 6 full-stack products from scratch — real-time chat, project managem
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrazakhann&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrazakhann&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
