@@ -51,7 +51,7 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 
 ---
 
-## Anthropic Certifications
+## Claude Architect (Anthropic Certifications)
 
 <p align="center">
   <a href="https://verify.skilljar.com/c/j9eroy3jadu4">
