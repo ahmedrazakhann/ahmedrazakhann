@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Raza Khan</h1>
 
 <p align="center">
-Full-Stack Software Engineer &nbsp;&middot;&nbsp; AWS Certified ML Associate &nbsp;&middot;&nbsp; 3 Years Building Production Systems
+Full-Stack Software Engineer &nbsp;&middot;&nbsp; AWS Certified ML Associate &nbsp;&middot;&nbsp; 2 Years Building Production Systems
 </p>
 
 <p align="center">
@@ -98,9 +98,6 @@ Integrated AWS Bedrock LLMs into a multi-tenant SaaS platform, cutting manual pr
 
 **Backend Engineer — Zyacom, Texas USA (Remote)** *(Sep 2024 – Jan 2026)*
 Owned the full software lifecycle for a US startup. Designed and documented 60+ REST API endpoints. Deployed on AWS EC2 and S3 with 99.8% uptime and 5,000+ daily requests. Cut deployment time from 40 minutes to under 8 minutes using GitHub Actions and Docker.
-
-**Full-Stack Developer — GMG Solutions** *(Jan 2024 – Dec 2024)*
-Delivered 6 full-stack products from scratch — real-time chat, project management tools, and custom SaaS platforms. Built reusable admin scaffolding that saved roughly two weeks per new project.
 
 ---
 
