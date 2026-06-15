@@ -55,7 +55,7 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 
 <p align="center">
   <a href="https://verify.skilljar.com/c/j9eroy3jadu4">
-    <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_100_100/company-logo_100_100/0/1719256989269/anthropicresearch_logo?e=1778716800&v=beta&t=3AzQoQP9Wuz8_OtiN3mgwXMzVdHyj1gNR7GmApif4Bs" height="80" alt="Anthropic Education" />
+    <img src="https://theahmedraza.com/images/logos/anthropic-highres.png" height="80" alt="Anthropic Education" />
   </a>
 </p>
 
