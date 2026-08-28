@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Raza Khan</h1>
 
 <p align="center">
-Full-Stack Software Engineer &nbsp;&middot;&nbsp; AWS Certified ML Associate &nbsp;&middot;&nbsp; 2 Years Building Production Systems
+Full-Stack Software Engineer &nbsp;&middot;&nbsp; AWS Certified ML Associate &nbsp;&middot;&nbsp; 3 Years Building Production Systems
 </p>
 
 <p align="center">
@@ -51,27 +51,14 @@ Currently a Software Engineer at **ExpertsCloud**, previously backend engineer a
 
 ---
 
-## Claude Architect (Anthropic Certifications)
+## Claude Architect (Anthropic Certification)
 
-<p align="center">
-  <a href="https://verify.skilljar.com/c/j9eroy3jadu4">
-    <img src="https://theahmedraza.com/images/logos/anthropic-highres.png" height="80" alt="Anthropic Education" />
-  </a>
-</p>
+<p align="center"> <a href="https://verify.skilljar.com/c/j9eroy3jadu4"> <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" height="110" alt="Claude Certified Architect - Foundations" /> </a> </p>
 
-<p align="center">
-  <a href="https://verify.skilljar.com/c/ggbbckywztcp">Model Context Protocol</a>
-   &nbsp;&middot;&nbsp;
-  <a href="https://verify.skilljar.com/c/6rvvp6wsaskt">Agent Skills</a>
-   &nbsp;&middot;&nbsp;
-  <a href="https://verify.skilljar.com/c/bregn4safgwk">Claude Code in Action</a> 
-  &nbsp;&middot;&nbsp;
-<a href="https://verify.skilljar.com/c/j9eroy3jadu4">Building with the Claude API</a>
-</p>
+<p align="center"> <strong>Claude Certified Architect – Foundations (CCAF)</strong> </p>
 
-<p align="center">
-  Issued by <strong>Anthropic Education</strong> &nbsp;&middot;&nbsp; April 2026
-</p>
+<p align="center"> Issued by <strong>Anthropic</strong> &nbsp;&middot;&nbsp; August 2026 </p>
+
 
 ---
 
